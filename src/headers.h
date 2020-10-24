@@ -5,7 +5,7 @@
 #include <vector>
 #include <utility>
 
-namespace ws28 {
+namespace ws409 {
 	class Client;
 	
 	class RequestHeaders {
